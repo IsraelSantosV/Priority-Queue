@@ -1,4 +1,4 @@
-# Priority-Queue
+# Priority Queue
 Priority queue created in C#
 
 ## :black_joker: How it work
